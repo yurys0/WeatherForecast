@@ -1,0 +1,4 @@
+{
+  "data_update_frequency" : 60,
+  "days_for_forecast": 3
+}
